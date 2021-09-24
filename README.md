@@ -1,4 +1,12 @@
 # meetApp
+Objective
+The aim of this project is to build a serverless, progressive web application (PWA) with React, using a test-driven
+development (TDD) technique. This application uses the Google Calendar API to fetch
+upcoming events.
+This app supports push notifications, instant loading, offline accessibility and cross-platform compatibility.
+
+
+
 Feature 1: 
 Filter Events by City
 Scenario 1: When user hasn’t searched for a city, show upcoming events from all cities.
